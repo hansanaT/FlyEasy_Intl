@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="couse_work_gad.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="airlinedbConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=sql-db-server1.database.windows.net;Initial Catalog=airlinedb;Persist Security Info=True;User ID=adminayesh;Password=Ayesh123456&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;Microsoft.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=sql-db-server1.database.windows.net;Initial Catalog=airlinedb;Persist Security Info=True;User ID=adminayesh;Password=Ayesh123456</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
