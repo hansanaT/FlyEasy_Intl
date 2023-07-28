@@ -351,6 +351,8 @@ namespace couse_work_gad
         private void btn_departure_Click(object sender, EventArgs e)
         {
             panel_calander.Visible = true;
+            txt_year.Text = DateTime.Now.Year.ToString();
+            txt_get_year.Text = txt_year.Text;
             lbl_de_re.Text = "Choose Your Departure Date";
             dpt = 1;
             rtn = 0;
